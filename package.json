@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/Char-Ten/babel-plugin-label-switch.git"
   },
-  "author": "",
+  "author": "charTen",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Char-Ten/babel-plugin-label-switch/issues"
