@@ -1,0 +1,19 @@
+{
+  "name": "babel-plugin-label-switch",
+  "version": "1.0.0",
+  "description": "a babel plugin to select to remove some label code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Char-Ten/babel-plugin-label-switch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Char-Ten/babel-plugin-label-switch/issues"
+  },
+  "homepage": "https://github.com/Char-Ten/babel-plugin-label-switch#readme"
+}
